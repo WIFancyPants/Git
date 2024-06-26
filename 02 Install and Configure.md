@@ -40,7 +40,7 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 3. **Verify the Installation**
    - Open Command Prompt.
-   - Ensure you are at the right directory level: TBD
+   - Ensure you are at the right directory level: $HOME directory
    - Run the following command:
      ```bash
      git --version
