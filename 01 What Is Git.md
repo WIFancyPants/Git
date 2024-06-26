@@ -6,13 +6,11 @@ By the end of this lesson, you will be able to
 - Differentiate between Git and GitHub.
 
 ---
-### High-Level Explanation of the Git Workflow
-
-#### Git and Its Purpose
+### Git and Its Purpose
 
 **Git** is a tool used for tracking changes in files and coordinating work among multiple people on a project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
 
-#### Basic Concepts in Git
+#### Basic Part of Git
 
 1. **Repository (Repo)**: A repository is the core structure where your project's files and their history are stored. It contains all versions of your files and the history of changes made to them.
 
@@ -24,7 +22,24 @@ By the end of this lesson, you will be able to
 
 5. **Remote Repository**: A remote repository is a version of your repository hosted on a server, such as GitHub. It allows you to share your code and collaborate with others.
 
-#### Git Workflow Overview
+#### High Level Git Workflow
+
+Here's a simplified view of the basic Git workflow:
+
+1. **Pull** updates from the remote repository to get the latest project state.
+2. **Stage** changes to prepare them for a commit.
+3. **Commit** changes to save a snapshot of the project.
+4. **Push** changes to share them with the remote repository.
+
+**Example Workflow**:
+```bash
+git pull origin main        # Update local repository
+# Make changes to your files
+git add .                   # Stage changes
+git commit -m "Add new feature"  # Commit changes with a message
+git push origin main        # Share changes with the remote repository
+```
+#### Details of Each Part of Git Workflow
 
 **1. Pulling Changes**
 Pulling is the process of updating your local repository with changes from a remote repository. This ensures that you have the latest version of the project before you start making new changes.
@@ -73,24 +88,6 @@ Pushing sends your committed changes to a remote repository so others can see an
   git push origin main
   ```
   *This command pushes your changes to the remote `main` branch.*
-
-#### Summarizing the Git Workflow
-
-Here's a simplified view of the basic Git workflow:
-
-1. **Pull** updates from the remote repository to get the latest project state.
-2. **Stage** changes to prepare them for a commit.
-3. **Commit** changes to save a snapshot of the project.
-4. **Push** changes to share them with the remote repository.
-
-**Example Workflow**:
-```bash
-git pull origin main        # Update local repository
-# Make changes to your files
-git add .                   # Stage changes
-git commit -m "Add new feature"  # Commit changes with a message
-git push origin main        # Share changes with the remote repository
-```
 
 #### Key Points
 
