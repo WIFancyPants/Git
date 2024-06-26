@@ -16,14 +16,15 @@ A local Git repository allows you to initialize version control for your project
 
 ### High-Level Steps to Create a Local Git Repository
 
-1. **Initialize a Git Repository**: Use the Git command to create a new repository in your project directory.
-2. **Verify Initialization**: Ensure that the repository has been created successfully.
+1. **Determine Where to Store the Repository**: Figure out where you want to story the new repository.
+2. **Initialize a Git Repository**: Use the Git command to create a new repository in your project directory of choice.
+3. **Verify Initialization**: Ensure that the repository has been created successfully.
 
 ---
 
 ### Detailed Steps to Create a Local Git Repository
 
-#### 1. Initialize a Git Repository
+#### 1. Determine Where to Store the Repository
 
 1. **Open Your Terminal or Command Prompt**
    - Navigate to the directory where you want to create your repository, or create a new directory for your project.
@@ -32,8 +33,9 @@ A local Git repository allows you to initialize version control for your project
      ```bash
      cd path/to/your/project
      ```
+#### 2. Initialize a Git Repository
 
-2. **Initialize Git**
+1. **Initialize Git**
    - Run the following command to initialize a new Git repository in your directory:
 
      ```bash
@@ -42,7 +44,7 @@ A local Git repository allows you to initialize version control for your project
 
      *This command creates a `.git` subdirectory in your current directory, which contains all the necessary files for the Git repository.*
 
-3. **Example**:
+2. **Example**:
    ```bash
    mkdir my-new-project
    cd my-new-project
