@@ -1,10 +1,12 @@
 ## Learning Outcome
 By the end of this lesson, you will be able to
-- Initialize, open, and manage repositories.
 - Clone respository directly in VSCode.
-- Perform basic Git operations in VSCode.
+- Push local changes to GitHub with meaningful messages.
 - Create a pull request.
 - Pull changes from GitHub in VSCode.
+- Fork a repository in GitHub via VS Code
+- Review and merge a pull request via VS Code
+- Deploy a static webpage to GitHub Pages
 
 ---
 
