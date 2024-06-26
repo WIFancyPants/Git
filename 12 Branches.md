@@ -5,5 +5,6 @@ By the end of this lesson, you will be able to
 - View a branch.
 - Merge changes from one branch to another.
 - Resolve basic merge conflicts
+- Work with branches in VSCode.
 
 ---
