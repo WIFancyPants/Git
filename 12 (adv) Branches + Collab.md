@@ -5,6 +5,11 @@ By the end of this lesson, you will be able to
 - View a branch.
 - Work with branches in VSCode.
 
+- Create a pull request (adv)
+- Pull changes from GitHub. (adv)
+- Review and merge a pull request (adv)
+
+
 ---
 
 ### Why Use Branches in Git?
