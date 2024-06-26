@@ -4,7 +4,7 @@ By the end of this lesson, you will be able to
 
 ---
 
-### Why Create a *Local* Git Repository?
+### Why Create a Git Repository?
 
 #### Problem in Development
 When starting a new project or adding version control to an existing one, it's essential to have a system to track changes and manage different versions of your files. This is where creating a local Git repository becomes crucial.
