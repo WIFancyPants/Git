@@ -22,7 +22,7 @@ Basic terminal commands provide a quick and powerful way to navigate and manage 
 
 ---
 
-#### Navigating Directories
+### Navigating Directories
 
 **Command: `cd` (Change Directory)**
 
@@ -46,7 +46,9 @@ Basic terminal commands provide a quick and powerful way to navigate and manage 
 - `cd /` goes to the root of the file system.
 - `cd ~` takes you to your home directory.
 
-#### Listing Directory Contents
+---
+
+### Listing Directory Contents
 
 **Command: `ls` (List)**
 
@@ -70,7 +72,9 @@ Basic terminal commands provide a quick and powerful way to navigate and manage 
 - `ls -a` shows all files, including those starting with a dot (hidden files).
 - `ls /path/to/dir` lists files in a specific directory.
 
-#### Creating and Removing Files/Directories
+---
+
+### Creating and Removing Files/Directories
 
 **Command: `touch` (Create File)**
 
@@ -132,7 +136,9 @@ Basic terminal commands provide a quick and powerful way to navigate and manage 
 
 *Explanation*: `rmdir myfolder` removes the empty directory `myfolder`. If the directory is not empty, use `rm -r` to remove it and its contents.
 
-#### 4. Viewing and Managing Files
+---
+
+### Viewing and Managing Files
 
 **Command: `cat` (Concatenate and Display File)**
 
