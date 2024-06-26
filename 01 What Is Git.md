@@ -1,3 +1,11 @@
+### Learning Outcome
+By the end of this lesson, you will be able to
+- Explore the purpose of Git
+- Define a repository.
+- Explain the basic workflow of Git, such as pull, stage, and commit.
+- Differentiate between Git and GitHub.
+
+---
 ### High-Level Explanation of the Git Workflow
 
 #### Git and Its Purpose
