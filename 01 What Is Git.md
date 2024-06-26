@@ -6,11 +6,12 @@ By the end of this lesson, you will be able to
 - Differentiate between Git and GitHub.
 
 ---
-### Git and Its Purpose
+#### Git and Its Purpose
 
 **Git** is a tool used for tracking changes in files and coordinating work among multiple people on a project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
 
-#### Basic Part of Git
+---
+#### Basic Parts of Git
 
 1. **Repository (Repo)**: A repository is the core structure where your project's files and their history are stored. It contains all versions of your files and the history of changes made to them.
 
@@ -22,7 +23,8 @@ By the end of this lesson, you will be able to
 
 5. **Remote Repository**: A remote repository is a version of your repository hosted on a server, such as GitHub. It allows you to share your code and collaborate with others.
 
-#### High Level Git Workflow
+---
+#### Basic Workflow of Git
 
 Here's a simplified view of the basic Git workflow:
 
