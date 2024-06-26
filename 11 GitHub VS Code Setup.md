@@ -7,7 +7,6 @@ By the end of this lesson, you will be able to
 - Work with branches in VSCode.
 - Create a pull request.
 - Pull changes from GitHub in VSCode.
-- Resolve merge conflicts.
 
 ---
 
