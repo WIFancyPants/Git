@@ -40,6 +40,7 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 3. **Verify the Installation**
    - Open Command Prompt.
+   - Ensure you are at the right directory level: TBD
    - Run the following command:
      ```bash
      git --version
@@ -81,6 +82,7 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 3. **Configure Git**
    - Open Terminal.
+   - Ensure you are at the right directory level: TBD
    - Set your username and email:
      ```bash
      git config --global user.name "Your Name"
@@ -95,6 +97,7 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 1. **Install via Package Manager**
    - Open Terminal.
+   - Ensure you are at the right directory level: TBD
    - Use the appropriate package manager for your distribution:
 
      - **Debian/Ubuntu**:
