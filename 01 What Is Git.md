@@ -6,7 +6,7 @@ By the end of this lesson, you will be able to
 - Differentiate between Git and GitHub.
 
 ---
-#### Git and Its Purpose
+### What Problem Does Git Solve? 
 
 **Git** is a tool used for tracking changes in files and coordinating work among multiple people on a project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
 
