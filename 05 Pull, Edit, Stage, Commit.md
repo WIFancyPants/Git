@@ -4,5 +4,6 @@ By the end of this lesson, you will be able to
 - Add files to staging area.
 - Commit changes with meaningful messages.
 - Explain the difference between staging and committing.
+- Pull a respository prior to staging and committing.
 
 ---
