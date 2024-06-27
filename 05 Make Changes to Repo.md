@@ -1,4 +1,4 @@
-## Learning Outcome
+## Learning Outcomes
 By the end of this lesson, you will be able to 
 - Access a local Git respository.
 - Add files to staging area.
