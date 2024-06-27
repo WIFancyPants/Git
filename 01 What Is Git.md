@@ -8,6 +8,8 @@ By the end of this lesson, you will be able to
 ---
 ### What Problem Does Git Solve? 
 
+You make a lot of changes to your code as you develop. How do you keep track of them? What if you want to revert back to an older version of your project? Git allows you to do that.
+
 **Git** is a free, open-source tool used for tracking changes in files. This is incredibly useful as you need to see change history and is critical collaborating with other developers on the same project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
 
 For now, you will use Git to manage versions and track your code's history.
@@ -15,25 +17,20 @@ For now, you will use Git to manage versions and track your code's history.
 ---
 ### Basic Parts of Git
 
-1. **Repository (Repo)**: A repository is the core structure where your project's files and their history are stored. It contains all versions of your files and the history of changes made to them.
+1. **Repository (Repo)**: A repository is the core structure where your project's files and their history are stored. It contains all versions of your files and the history of changes made to them. A repository can be **local** on your machine and/or **remote**, hosted on a server, so you can access it from any computer connected to the internet. It's kinda like how you can choose to work "offline" on some Google Drive documents: you can make changes on your local machine, and once it's connected back to the internet, it will sync those changes up to the Drive.
 
 2. **Commit**: A commit is like a snapshot of your project at a given point in time. It records changes to the files in your repository and allows you to go back to any previous state if needed.
 
-3. **Branch**: A branch is a separate line of development within your repository. It allows you to work on new features or changes independently of the main codebase until you're ready to merge your work back into the main branch.
-
-4. **Merge**: Merging is the process of integrating changes from one branch into another. It combines the changes and resolves any conflicts that may arise when different lines of development diverge.
-
-5. **Remote Repository**: A remote repository is a version of your repository hosted on a server, such as GitHub. It allows you to share your code and collaborate with others.
-
 ---
-### Basic Workflow of Git
+### How to Save Your Commits and Update your Repository?
 
-Here's a simplified view of the basic Git workflow:
+Since Git is designed to protect you from accidently losing some of your code when you update, it requires a few steps to "save" your changes:
 
 1. **Pull** updates from the remote repository to get the latest project state.
-2. **Stage** changes to prepare them for a commit.
-3. **Commit** changes to save a snapshot of the project.
-4. **Push** changes to share them with the remote repository.
+2. You make some changes to the code.
+3. **Stage** changes to prepare them for a commit.
+4. **Commit** changes to save a snapshot of the project.
+5. **Push** changes to share them with the remote repository.
 
 **Example Workflow**:
 ```bash
