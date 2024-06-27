@@ -31,8 +31,11 @@ A local Git repository allows you to initialize version control for your project
    - Use the `cd` command to change to the desired directory.
 
      ```bash
-     cd path/to/your/project
+     cd path/to/your/project  --> this is just an example. Do not copy and paste; make your own path.
      ```
+
+   **Stuck?** Review Terminal Commands to see how to naviate around your files and folders system.
+   
 #### 2. Initialize a Git Repository
 
 1. **Initialize Git**
