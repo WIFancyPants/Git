@@ -5,18 +5,8 @@ By the end of this lesson, you will be able to
 - Make and manage changes
 - Describe situations that would require a pull before editting a remote repository.
 ---
-## Lesson: Managing GitHub Repositories with Git
 
-### Learning Outcomes
-By the end of this lesson, students will be able to:
-1. Create a repository on GitHub.
-2. Connect a local Git repository to a remote repository (e.g., on GitHub).
-3. Make and manage changes between local and remote repositories.
-4. Describe situations that require pulling changes before editing a remote repository.
-
----
-
-### 1. Why Manage GitHub Repositories with Git?
+### Why Manage GitHub Repositories with Git?
 
 #### Problem in Development
 Collaborating on code requires a streamlined process to share, update, and manage changes. Manual synchronization can lead to conflicts, outdated code, and data loss.
@@ -26,7 +16,7 @@ GitHub hosts remote repositories, allowing multiple developers to collaborate se
 
 ---
 
-### 2. High-Level Overview of Managing GitHub Repositories
+### High-Level Overview of Managing GitHub Repositories
 
 1. **Create a Repository on GitHub**: Set up a new repository on GitHub to host your project.
 2. **Connect Local to Remote Repository**: Link your local Git repository to the GitHub remote repository for synchronization.
@@ -35,7 +25,7 @@ GitHub hosts remote repositories, allowing multiple developers to collaborate se
 
 ---
 
-### 3. Detailed Instructions for Managing GitHub Repositories
+### Detailed Instructions for Managing GitHub Repositories
 
 #### 1. Creating a Repository on GitHub
 
@@ -58,7 +48,7 @@ GitHub hosts remote repositories, allowing multiple developers to collaborate se
 
 ---
 
-#### 2. Connecting a Local Repository to a Remote Repository
+#### Connecting a Local Repository to a Remote Repository
 
 **Steps to Connect**:
 
@@ -100,7 +90,7 @@ git push -u origin main
 
 ---
 
-#### 3. Making and Managing Changes
+#### Making and Managing Changes
 
 **Steps to Manage Changes**:
 
@@ -139,7 +129,7 @@ git push origin main
 
 ---
 
-#### 4. Describing Situations that Require Pulling Changes
+#### Describing Situations that Require Pulling Changes
 
 **Situations Requiring `git pull`**:
 
@@ -169,51 +159,7 @@ git push origin main
 
 ---
 
-### 4. Examples of Managing GitHub Repositories
-
-**Example 1: Creating and Connecting a New Repository**
-
-1. **Create Repository on GitHub**:
-   - Name: `new-repo`
-
-2. **Initialize and Push Local Repository**:
-   ```bash
-   mkdir new-repo
-   cd new-repo
-   git init
-   git remote add origin https://github.com/your-username/new-repo.git
-   echo "# New Project" > README.md
-   git add README.md
-   git commit -m "Initial commit"
-   git push -u origin main
-   ```
-
-*Explanation*: Creates a new directory `new-repo`, initializes it, connects it to the GitHub repository, adds a README, commits, and pushes to GitHub.
-
-**Example 2: Syncing Changes Between Local and Remote**
-
-1. **Pull Latest Changes**:
-   ```bash
-   git pull origin main
-   ```
-
-2. **Make and Commit Changes**:
-   ```bash
-   echo "New Feature" >> feature.txt
-   git add feature.txt
-   git commit -m "Add new feature"
-   ```
-
-3. **Push Changes**:
-   ```bash
-   git push origin main
-   ```
-
-*Explanation*: Pulls the latest changes, adds a new feature locally, commits, and pushes it to the GitHub repository.
-
----
-
-### 5. Troubleshooting Common Issues
+### Troubleshooting Common Issues
 
 1. **Authentication Errors**:
    - **Symptom**: Unable to push or pull due to authentication issues.
