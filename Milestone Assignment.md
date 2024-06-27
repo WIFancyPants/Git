@@ -28,11 +28,10 @@ Use what you've learned about Git and GitHub to create and connect a repository.
 **Step 1: Get Git Setup and Working**
 1. Create a new VS Code project and name it LASTNAME_Git_Assignment.
 2. In VS Code, create an HTML page that lists your name as `h1` and a favorite food as `p`.
-3. In terminal, install Git onto your machine, if you haven't already.
-4. In terminal, initialize Git for your LASTNAME_Git_Assignment.
-5. In VS Code, make a change in the project: add a separate `p` that displays your favorite animal.
-6. In terminal, stage and commit the changes with the message "Added favorite animal."
-7. In terminal, run `log` to see the commit changes. TAKE A SCREENSHOT of the terminal output.
+3. In terminal, initialize Git for your LASTNAME_Git_Assignment.
+4. In VS Code, make a change in the project: add a separate `p` that displays your favorite animal.
+5. In terminal, stage and commit the changes with the message "Added favorite animal."
+6. In terminal, run `log` to see the commit changes. TAKE A SCREENSHOT of the terminal output.
 
 **Step 2: Connect Local Repo to GitHub Repo**
 1. Create a GitHub account, if you don't already have one.
