@@ -20,10 +20,14 @@ Git provides a structured workflow for managing changes through staging and comm
 ### High-Level Overview of Managing Local Changes
 
 1. **Access a Local Repository**: Open and navigate to an existing Git repository on your machine.
-2. **Add Files to Staging**: Use `git add` to move changes to the staging area, preparing them for a commit.
-3. **Commit Changes**: Use `git commit` to save staged changes with a descriptive message.
-4. **Staging vs. Committing**: Staging allows you to selectively prepare changes for a commit, while committing records these changes in the repository’s history.
-5. **Pull Repository**: Use `git pull` to update your local repository with changes from the remote repository before staging and committing.
+2. **Pull Repository**: Use `git pull` to update your local repository with changes from the remote repository before staging and committing.
+3. **Stage: Add Files to Staging**: Use `git add` to move changes to the staging area, preparing them for a commit.
+4. **Commit Changes**: Use `git commit` to save staged changes with a descriptive message.
+
+Reminder: **Staging vs. Committing**: Staging allows you to selectively prepare changes for a commit, while committing records these changes in the repository’s history.
+
+**Why Pull First?**
+Get into the habit of pulling before you stage. When you start to work collaboratively, you can avoid most Git Commit conflicts if you ensure you have the most recent version of the project to commit to.
 
 ---
 
