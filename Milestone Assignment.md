@@ -9,7 +9,9 @@ Use what you've learned about Git and GitHub to create and connect a repository.
 **Instructions**
 1. Read through the directions below. 
 2. Complete the necessary elements as outlined.
-3. Zip the project and submit to [xxxxx] by the due date.
+3. Submit the following artifacts for your assignment:
+- Screenshot from Step 1
+- Url to your LASTNAME_GitHub_Assignment repo from Step 2
 
 **Evaluation Criteria & Learning Objectives**
 - Install and Configure Git
@@ -43,7 +45,3 @@ Use what you've learned about Git and GitHub to create and connect a repository.
 8. In terminal, undo your changes.
 9. In termina, run `log` to see the undo of your changes.
 10. Check GitHub to see both commit and undo are visible.
-  
-For your assignment, submit the following: 
-- Screenshot from Step 1
-- Url of your LASTNAME_GitHub_Assignment
