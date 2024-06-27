@@ -61,16 +61,19 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 #### macOS
 
-1. **Use Homebrew**
+1. **Use Homebrew and Then Git**
    - Open Terminal.
    - Install Homebrew if not already installed:
      ```bash
      /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
      ```
+     Follow the prompts that appear.
+     
    - Install Git using Homebrew:
      ```bash
      brew install git
      ```
+     Follow the prompts that appear.
 
 2. **Verify the Installation**
    - Run the following command in Terminal:
