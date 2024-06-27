@@ -3,7 +3,6 @@ By the end of this lesson, you will be able to
 - Explore the purpose of Git
 - Define a repository.
 - Explain the basic workflow of Git, such as pull, stage, and commit.
-- Explain what a branch is.
 - Differentiate between Git and GitHub.
 
 ---
