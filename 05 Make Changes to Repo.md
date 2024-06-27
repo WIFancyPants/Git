@@ -19,7 +19,7 @@ Git provides a structured workflow for managing changes through staging and comm
 
 ### High-Level Overview of Managing Local Changes
 
-1. **Access a Local Repository**: Open and navigate to an existing Git repository on your machine.
+1. **Access a Local Repository**: Open and navigate to the existing Git repository on your machine.
 2. **Pull Repository**: Use `git pull` to update your local repository with changes from the remote repository before staging and committing.
 3. **Stage: Add Files to Staging**: Use `git add` to move changes to the staging area, preparing them for a commit.
 4. **Commit Changes**: Use `git commit` to save staged changes with a descriptive message.
