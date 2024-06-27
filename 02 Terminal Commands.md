@@ -10,7 +10,7 @@ By the end of this lesson, you will be able to
 ### Why Learn Basic Terminal Commands?
 
 #### Problem in Development
-To use Git, you need to be comfortable navigating your computer's file and folder system using your terminal. Understanding terminal commands allows you to quickly and effectively manage your files without relying solely on graphical interfaces.
+Git works through commands you enter into the termina. Thus, you need to be comfortable navigating your computer's file and folder system using your terminal.
 
 #### How Using Basic Terminal Commands Solves the Problem
 Basic terminal commands provide a quick and powerful way to navigate and manage your files and folders. They enable you to perform operations such as moving between directories, listing contents, creating and deleting files and directories, and more directly from the command line.
