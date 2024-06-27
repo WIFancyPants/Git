@@ -43,5 +43,5 @@ Use what you've learned about Git and GitHub to create and connect a repository.
 6. In terminal, run `log` to see the commit changes.
 7. Check GitHub to see if the commit came through. You may need to refresh the GitHub page. 
 8. In terminal, undo your changes.
-9. In termina, run `log` to see the undo of your changes.
+9. In terminal, run `log` to see the undo of your changes.
 10. Check GitHub to see both commit and undo are visible.
