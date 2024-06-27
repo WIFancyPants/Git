@@ -22,15 +22,22 @@ Use what you've learned about Git and GitHub to create and connect a repository.
 ---
 
 ## Directions
-1. Install Git onto your machine, if you haven't already.
-2. Initiatize a new repository called LASTNAME_Git_Assignment.
-3. In the new repository, create a new Project. In the new project, create an HTML page that lists your name as header 1 and a favorite food of yours as a paragraph.
-4. Create a GitHub account, if you don't already have one.
-5. In GitHub, create a new repository, name it LASTNAME_GitHub_Assignment.
-6. Using your terminal, connect the GitHub repository to your local LASTNAME_Git_Assignment repository.
-7. In VSCode, edit your LASTNAME_Git_Assignment to include either your favorite movie or a family-friendly joke.
-8. Stage and commit your changes. Make sure you visit GitHub to verify your changes were made.
-9. In Terminal, undo your changes.
-10. Check GitHub to see both commit and undo are visible.
+
+**Step 1: Get Git Setup and Working**
+1. Create a new VS Code project and name it LASTNAME_Git_Assignment.
+2. In the project, create an HTML page that lists your name as header 1 and a favorite food of yours as a paragraph.
+3. Install Git onto your machine, if you haven't already.
+4. Initialize Git for your LASTNAME_Git_Assignment.
+5. MAKE A CHANGE, STAGE, COMMIT.
+6. RUN VIEW CHANGE. Snap a screenshot of that.
+
+**Step 2: Connect Local Repo to GitHub Repo**
+1. Create a GitHub account, if you don't already have one.
+2. In GitHub, create a new repository, name it LASTNAME_GitHub_Assignment.
+3. Using your terminal, connect the GitHub repository to your local LASTNAME_Git_Assignment repository.
+4. In VSCode, edit your LASTNAME_Git_Assignment to include either your favorite movie or a family-friendly joke.
+5. Stage and commit your changes. Make sure you visit GitHub to verify your changes were made.
+6. In Terminal, undo your changes.
+7. Check GitHub to see both commit and undo are visible.
   
 Submit the url of your LASTNAME_GitHub_Assignment as your assignment.
