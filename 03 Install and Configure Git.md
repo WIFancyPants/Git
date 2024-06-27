@@ -26,8 +26,9 @@ Installing Git provides the tools necessary to manage code versions locally. Con
 
 ### Detailed Installation and Configuration Instructions
 
-## Note on Installing Any Software
-Your computer's configuration is unique, and thus, there will likely be deviations or details that we cannot anticipate. When installing Git, the terminal will likely ask you questions, give you prompts, or provide directions. Read through the questions, review the prompts, and follow the directions. 
+| Note on Installing Any Software |
+|-----|
+|Your computer's configuration is unique, and thus, there will likely be deviations or details that we cannot anticipate. When installing Git, the terminal will likely ask you questions, give you prompts, or provide directions. Read through the questions, review the prompts, and follow the directions.|
 
 #### Windows
 
