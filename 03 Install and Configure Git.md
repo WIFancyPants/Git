@@ -1,4 +1,4 @@
-## Learning Outcomes
+### Learning Outcomes
 By the end of this lesson, you should be able to:
 - Install Git on their local machine and verify the installation.
 - Configure Git with a username and email address.
