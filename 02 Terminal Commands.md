@@ -1,6 +1,9 @@
 ### Learning Outcome
 By the end of this lesson, you will be able to
-- Use basic terminal commands to navigate files and folders on their local machine.
+- Identify in what directory the terminal currently is.
+- Nagivate between directories.
+- List items within a directory.
+- Create and remove files or directories.
 
 ---
 
