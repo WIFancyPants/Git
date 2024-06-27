@@ -1,4 +1,4 @@
-### Learning Outcome
+## Learning Outcomes
 By the end of this lesson, you will be able to
 - Identify in what directory the terminal currently is.
 - Nagivate between directories.
