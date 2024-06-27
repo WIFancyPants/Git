@@ -1,8 +1,9 @@
 Create a screencast of you:
 - Create a GitHub repo
-- Connect that GitHub repo to your local device via terminal
-- Create and add a folder to the repo via terminal (tests add + commit)
-- View commit history in terminal
-- Show the folder in GitHub
+- Int git on project folder
+- Connect online repo to local repo
+- Edit the file, stage, commit
+- (optional) View commit history in terminal
+- (optional) Show the folder in GitHub
   
 Include a url to the the GitHub repo.
