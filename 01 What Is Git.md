@@ -8,7 +8,9 @@ By the end of this lesson, you will be able to
 ---
 ### What Problem Does Git Solve? 
 
-**Git** is a tool used for tracking changes in files and coordinating work among multiple people on a project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
+**Git** is a free, open-source tool used for tracking changes in files. This is incredibly useful as you need to see change history and is critical collaborating with other developers on the same project. It is essential in software development for managing different versions of a codebase, allowing developers to work on features, fix bugs, and merge contributions seamlessly.
+
+For now, you will use Git to manage versions and track your code's history.
 
 ---
 ### Basic Parts of Git
