@@ -1,4 +1,4 @@
-## Learning Outcome
+## Learning Outcomes
 By the end of this lesson, you will be able to 
 - Create a new Git repository on their local machine.
 
