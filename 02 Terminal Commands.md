@@ -34,6 +34,7 @@ Basic terminal commands provide a quick and powerful way to navigate and manage 
   ```bash
   cd path/to/directory
   ```
+  ^note: 'path/to/directory' is just an example. Do not copy/paste.
 
 - **Examples**:
   ```bash
